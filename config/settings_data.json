@@ -103,7 +103,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
+              "text": "Bienvenido a Kmaleonik",
               "text_alignment": "center",
               "color_scheme": "background-1",
               "link": ""
@@ -120,7 +120,8 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo_width": 90,
+          "logo": "shopify:\/\/shop_images\/logo.svg_d67e47ca-eed9-450b-8ca7-3ff00cd6b93a.png",
+          "logo_width": 70,
           "logo_position": "middle-left",
           "menu": "kmaleonik-v-1",
           "menu_type_desktop": "mega",
