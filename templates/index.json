@@ -81,6 +81,81 @@
         "padding_bottom": 0
       }
     },
+    "1658394327439c8ca5": {
+      "type": "multicolumn",
+      "blocks": {
+        "16583943276f5ecaf1-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/istockphoto-598098724-1024x1024.jpg",
+            "title": "",
+            "text": "<p><strong>DISFRACES<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0ce24490-8c57-4975-ba8a-bbc4b2b02b59": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/istockphoto-92187510-1024x1024.jpg",
+            "title": "",
+            "text": "<p><strong>MÁSCARAS<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16583943276f5ecaf1-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4cc6cc7e-c89e-47d6-81f0-41f401932741": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a156cf11-2450-4646-b2b9-cb0b47225588": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16583943276f5ecaf1-0",
+        "0ce24490-8c57-4975-ba8a-bbc4b2b02b59",
+        "16583943276f5ecaf1-1",
+        "4cc6cc7e-c89e-47d6-81f0-41f401932741",
+        "a156cf11-2450-4646-b2b9-cb0b47225588"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 16,
+        "padding_bottom": 12
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -216,6 +291,7 @@
   "order": [
     "image_banner",
     "rich_text",
+    "1658394327439c8ca5",
     "featured_collection",
     "collage",
     "video",
