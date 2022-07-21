@@ -40,7 +40,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/7ddccb7f-69f9-48a3-b72a-087bd39e5a3f.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
@@ -121,30 +121,20 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "a156cf11-2450-4646-b2b9-cb0b47225588": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "16583943276f5ecaf1-0",
         "0ce24490-8c57-4975-ba8a-bbc4b2b02b59",
         "16583943276f5ecaf1-1",
-        "4cc6cc7e-c89e-47d6-81f0-41f401932741",
-        "a156cf11-2450-4646-b2b9-cb0b47225588"
+        "4cc6cc7e-c89e-47d6-81f0-41f401932741"
       ],
       "settings": {
         "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "portrait",
-        "columns_desktop": 2,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
