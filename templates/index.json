@@ -57,7 +57,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Bienvenido a tu tienda de disfraces<\/p>",
+            "heading": "<p>Tu tienda de disfraces<\/p>",
             "heading_size": "h1"
           }
         },
@@ -91,7 +91,7 @@
             "title": "",
             "text": "<p><strong>DISFRACES<\/strong><\/p>",
             "link_label": "",
-            "link": "shopify:\/\/collections\/disfraces-halloween"
+            "link": ""
           }
         },
         "0ce24490-8c57-4975-ba8a-bbc4b2b02b59": {
