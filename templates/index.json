@@ -91,7 +91,7 @@
             "title": "",
             "text": "<p><strong>DISFRACES<\/strong><\/p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/disfraces-halloween"
           }
         },
         "0ce24490-8c57-4975-ba8a-bbc4b2b02b59": {
@@ -107,8 +107,9 @@
         "16583943276f5ecaf1-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/istockphoto-1081912106-1024x1024.jpg",
+            "title": "",
+            "text": "<p><strong>DECORACIÓN FIESTAS <\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -116,8 +117,9 @@
         "4cc6cc7e-c89e-47d6-81f0-41f401932741": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/istockphoto-901980796-1024x1024.jpg",
+            "title": "",
+            "text": "<p><strong>FIESTAS TEMÁTICAS<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
